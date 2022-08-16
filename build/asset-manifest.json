@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc01535e.css",
+    "main.js": "/static/js/main.b6c490c7.js",
+    "static/js/787.1d8e0f8f.chunk.js": "/static/js/787.1d8e0f8f.chunk.js",
+    "static/media/spongebob-nail-biting.gif": "/static/media/spongebob-nail-biting.a27f991d595bd4f45888.gif",
+    "static/media/couple.gif": "/static/media/couple.90dbf63fa57600db0577.gif",
+    "static/media/affection.gif": "/static/media/affection.d202d767fe7a39e62d76.gif",
+    "static/media/relationShipbackground.jpg": "/static/media/relationShipbackground.267a6666f63e362d759d.jpg",
+    "index.html": "/index.html",
+    "main.cc01535e.css.map": "/static/css/main.cc01535e.css.map",
+    "main.b6c490c7.js.map": "/static/js/main.b6c490c7.js.map",
+    "787.1d8e0f8f.chunk.js.map": "/static/js/787.1d8e0f8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc01535e.css",
+    "static/js/main.b6c490c7.js"
+  ]
+}
